@@ -1,0 +1,7 @@
+include ':commons'
+include ':features:favorites'
+include ':features:home'
+include ':features'
+include ':core'
+include ':app'
+rootProject.name = "MvpMoxy"
